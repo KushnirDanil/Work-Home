@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 25%;
+    float: left;
+}
+p{
+    font: italic 3em "Fira Sans", serif;
+}
+.back{
+    float: right;
+    font: italic 5em "Fira Sans", serif;
+}
